@@ -1,4 +1,4 @@
-# 
+# Premium AI leaf disease detection system extensões. Com aprendizado por reforço e aumento de dados — otimizado para máximo desempenho.
 
 
 
